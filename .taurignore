@@ -1,0 +1,14 @@
+# The app depends on this crate by path, so `tauri dev` watches the whole tree.
+# Frontend and docs changes are served by Vite's hot reload; they must not
+# restart the Rust process (that would stop the audio engine).
+app/src/
+app/public/
+app/dist/
+app/node_modules/
+app/design/
+app/index.html
+app/package.json
+app/package-lock.json
+app/vite.config.ts
+app/tsconfig.json
+*.md

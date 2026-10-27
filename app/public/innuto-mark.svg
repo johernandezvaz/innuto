@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="innuto"><title>innuto</title>
+  <g>
+    <path d="M142.6 74.5A214 214 0 0 0 142.6 437.5M369.4 74.5A214 214 0 0 1 369.4 437.5" fill="none" stroke="#C6FF3D" stroke-width="26" stroke-linecap="round"/>
+    <path d="M123.7 136.9A178 178 0 0 0 123.7 375.1M388.3 136.9A178 178 0 0 1 388.3 375.1" fill="none" stroke="#C6FF3D" stroke-width="14" stroke-linecap="round"/>
+    <path d="M168 376V218C168 132 256 132 256 218V334M256 218C256 132 344 132 344 218V376" fill="none" stroke="#C6FF3D" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="318" cy="88" r="22" fill="#FF3D9A"/>
+  </g>
+</svg>
